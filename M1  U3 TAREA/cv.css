@@ -75,5 +75,141 @@ h3{
   h3
    {
     text-align: center;
+
    }
   
+
+#cajaprincipalejemplouno
+
+{
+
+background-color: white;
+margin: auto;
+border: 3px inset black;
+width: 90%;
+height: 500px;
+direction: rtl;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+
+}
+
+
+#ROJO
+{   
+    background-color: #eb260b;
+  
+    height: 40%;
+    width: 40%;
+    
+
+    
+}
+
+#AZUL 
+
+{   
+     background-color: blue;
+     
+    height: 40%;
+    width: 40%;
+  
+}
+
+
+
+#VERDE
+{  
+    background-color: darkgreen;
+    
+    height: 40%;
+    width: 40%;
+   
+}
+
+
+#cajaprincipalejemplodos
+{
+  background-color: white;
+  margin: auto;
+  border: 5px inset black;
+  width: 70%;
+  height: 300px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+   text-align: center;
+
+
+}
+ #ROJOdos
+ {
+    background-color: #eb260b;
+  
+    height: 40%;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+ }
+#AZULdos
+{
+    background-color: blue;
+     
+    height: 40%;
+    width: 40%;
+
+
+}
+#VERDEdos
+{
+    background-color: darkgreen;
+    
+    height: 40%;
+    width: 40%;
+
+}
+
+#cajaprincipalejemplotres
+{
+    background-color: white;
+    margin: auto;
+    border: 2px inset black;
+    width: 90%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+
+  
+  
+  }
+   #ROJOtres
+   {
+      background-color: #eb260b;
+      height: 200px;
+      width: 20%;
+    
+
+   }
+  #AZULtres
+  {
+      background-color: blue;
+      height: 200px;
+      width: 20%;
+    
+  
+  }
+  #VERDEtres
+  {
+      background-color: darkgreen;
+      height: 200px;
+      width: 20%;
+    
+  }
+
+
+
+

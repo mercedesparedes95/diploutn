@@ -91,43 +91,40 @@ height: 500px;
 direction: rtl;
 display: flex;
 flex-direction: column;
-justify-content: center;
-text-align: center;
+justify-content: end;
+
 
 }
-
-
-#ROJO
-{   
-    background-color: #eb260b;
-  
-    height: 40%;
+#ROJOuno
+{
+    background-color: red;
     width: 40%;
-    
-
-    
-}
-
-#AZUL 
-
-{   
-     background-color: blue;
-     
-    height: 40%;
-    width: 40%;
-  
-}
-
-
-
-#VERDE
-{  
-    background-color: darkgreen;
-    
-    height: 40%;
-    width: 40%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    
 }
+#AZULuno
+{
+    background-color:blue;
+    width: 40%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+ #VERDEuno
+ {
+    background-color: green;
+    width: 40%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+ }
 
 
 #cajaprincipalejemplodos
@@ -140,7 +137,7 @@ text-align: center;
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
-   text-align: center;
+  
 
 
 }
@@ -150,15 +147,20 @@ text-align: center;
   
     height: 40%;
     width: 40%;
-    margin: auto;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
  }
 #AZULdos
 {
     background-color: blue;
      
     height: 40%;
-    width: 40%;
+    width: 40%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 
 }
@@ -168,7 +170,9 @@ text-align: center;
     
     height: 40%;
     width: 40%;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #cajaprincipalejemplotres
@@ -191,6 +195,9 @@ text-align: center;
       background-color: #eb260b;
       height: 200px;
       width: 20%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     
 
    }
@@ -199,6 +206,9 @@ text-align: center;
       background-color: blue;
       height: 200px;
       width: 20%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     
   
   }
@@ -207,6 +217,9 @@ text-align: center;
       background-color: darkgreen;
       height: 200px;
       width: 20%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     
   }
 
